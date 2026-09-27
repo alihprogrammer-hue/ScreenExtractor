@@ -1,0 +1,381 @@
+{
+  "screen": {
+    "width": 1280,
+    "height": 720
+  },
+  "elements": [
+    {
+      "id": 1,
+      "type": "textbox",
+      "text": "Screen Analysis Studio",
+      "bbox": [
+        26,
+        18,
+        130,
+        28
+      ],
+      "center": [
+        78,
+        23
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 2,
+      "type": "textbox",
+      "text": "File",
+      "bbox": [
+        241,
+        18,
+        257,
+        26
+      ],
+      "center": [
+        249,
+        22
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 3,
+      "type": "textbox",
+      "text": "Edit",
+      "bbox": [
+        301,
+        18,
+        318,
+        26
+      ],
+      "center": [
+        309,
+        22
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 4,
+      "type": "textbox",
+      "text": "View",
+      "bbox": [
+        360,
+        18,
+        383,
+        26
+      ],
+      "center": [
+        371,
+        22
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 5,
+      "type": "textbox",
+      "text": "Help",
+      "bbox": [
+        421,
+        18,
+        443,
+        28
+      ],
+      "center": [
+        432,
+        23
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 6,
+      "type": "button",
+      "text": "Settings",
+      "bbox": [
+        1159,
+        9,
+        1242,
+        42
+      ],
+      "center": [
+        1200,
+        25
+      ],
+      "confidence": 0.92,
+      "clickable": true
+    },
+    {
+      "id": 7,
+      "type": "textbox",
+      "text": "Account Settings & Preferences",
+      "bbox": [
+        100,
+        111,
+        246,
+        122
+      ],
+      "center": [
+        173,
+        116
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 8,
+      "type": "input field",
+      "text": "Search settings...",
+      "bbox": [
+        99,
+        149,
+        452,
+        192
+      ],
+      "center": [
+        275,
+        170
+      ],
+      "confidence": 0.91,
+      "clickable": true
+    },
+    {
+      "id": 9,
+      "type": "image",
+      "text": "Text_69x13",
+      "bbox": [
+        649,
+        149,
+        952,
+        387
+      ],
+      "center": [
+        800,
+        268
+      ],
+      "confidence": 0.85,
+      "clickable": false
+    },
+    {
+      "id": 10,
+      "type": "icon",
+      "text": "Text_20x20",
+      "bbox": [
+        114,
+        161,
+        133,
+        180
+      ],
+      "center": [
+        123,
+        170
+      ],
+      "confidence": 0.88,
+      "clickable": true,
+      "description": "search"
+    },
+    {
+      "id": 11,
+      "type": "textbox",
+      "text": "Username",
+      "bbox": [
+        101,
+        222,
+        147,
+        230
+      ],
+      "center": [
+        124,
+        226
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 12,
+      "type": "input field",
+      "text": "agent_user_42",
+      "bbox": [
+        99,
+        244,
+        552,
+        292
+      ],
+      "center": [
+        325,
+        268
+      ],
+      "confidence": 0.91,
+      "clickable": true
+    },
+    {
+      "id": 13,
+      "type": "textbox",
+      "text": "Email Address",
+      "bbox": [
+        101,
+        317,
+        164,
+        325
+      ],
+      "center": [
+        132,
+        321
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 14,
+      "type": "input field",
+      "text": "agent@arena.ai",
+      "bbox": [
+        99,
+        339,
+        552,
+        387
+      ],
+      "center": [
+        325,
+        363
+      ],
+      "confidence": 0.91,
+      "clickable": true
+    },
+    {
+      "id": 15,
+      "type": "checkbox",
+      "bbox": [
+        99,
+        414,
+        124,
+        439
+      ],
+      "center": [
+        111,
+        426
+      ],
+      "confidence": 0.88,
+      "clickable": true
+    },
+    {
+      "id": 16,
+      "type": "checkbox",
+      "text": "Text_25x25",
+      "bbox": [
+        104,
+        420,
+        119,
+        434
+      ],
+      "center": [
+        111,
+        427
+      ],
+      "confidence": 0.88,
+      "clickable": true
+    },
+    {
+      "id": 17,
+      "type": "textbox",
+      "text": "Enable notifications",
+      "bbox": [
+        136,
+        419,
+        226,
+        428
+      ],
+      "center": [
+        181,
+        423
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 18,
+      "type": "checkbox",
+      "bbox": [
+        99,
+        459,
+        124,
+        484
+      ],
+      "center": [
+        111,
+        471
+      ],
+      "confidence": 0.88,
+      "clickable": true
+    },
+    {
+      "id": 19,
+      "type": "textbox",
+      "text": "Auto-start on boot",
+      "bbox": [
+        135,
+        465,
+        213,
+        473
+      ],
+      "center": [
+        174,
+        469
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    },
+    {
+      "id": 20,
+      "type": "button",
+      "text": "Save Changes",
+      "bbox": [
+        99,
+        529,
+        262,
+        582
+      ],
+      "center": [
+        180,
+        555
+      ],
+      "confidence": 0.91,
+      "clickable": true
+    },
+    {
+      "id": 21,
+      "type": "button",
+      "text": "Cancel",
+      "bbox": [
+        279,
+        529,
+        402,
+        582
+      ],
+      "center": [
+        340,
+        555
+      ],
+      "confidence": 0.92,
+      "clickable": true
+    },
+    {
+      "id": 22,
+      "type": "textbox",
+      "text": "Learn more about permissions",
+      "bbox": [
+        431,
+        550,
+        569,
+        560
+      ],
+      "center": [
+        500,
+        555
+      ],
+      "confidence": 0.99,
+      "clickable": false
+    }
+  ]
+}

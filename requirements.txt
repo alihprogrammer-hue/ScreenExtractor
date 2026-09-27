@@ -1,0 +1,26 @@
+# ==============================================================================
+# Screen Analysis Engine Requirements
+# Targeted for CPU-only systems (8GB RAM, no GPU required)
+# Python 3.11+
+# ==============================================================================
+
+# Core Computer Vision & Image Processing
+opencv-python-headless>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0,<2.4.0
+
+# Deep Learning Runtimes (CPU compatible)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# UI Element Detector
+ultralytics>=8.0.0
+
+# OCR Engine
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+paddlex>=3.7.0
+
+# Configuration & Testing
+pydantic>=2.0.0
+pytest>=7.0.0
